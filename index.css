@@ -110,7 +110,7 @@ a {
   left: 0;
   padding: 0;
   border-radius: 10px;
-  background: #37404A;
+  background: linear-gradient(to right, #262626, #595959);
   margin: 0;
 }
 
@@ -363,7 +363,7 @@ footer {
   margin: 5px;
 }
 .timeline-content {
-  background: linear-gradient(to right, #37404A, #1E1E2A);
+  background: linear-gradient( #000000, #777777);
   box-shadow: 0 0 20px 1px black;
   padding: 30px;
   border-radius: 5px;
